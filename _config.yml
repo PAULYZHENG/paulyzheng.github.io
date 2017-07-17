@@ -51,7 +51,6 @@ menu:
 
 #### Widgets
 widgets:
-- category
 - tag
 - tagcloud
 - links
