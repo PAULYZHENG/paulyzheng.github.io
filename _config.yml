@@ -57,12 +57,12 @@ widgets:
 - links
 - douban
 - github-card
-- rss
+##- rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
 #### RSS
-rss: ## RSS address./atom.xml 
+##rss: /atom.xml ## RSS address.
 
 #### Image
 imglogo:
