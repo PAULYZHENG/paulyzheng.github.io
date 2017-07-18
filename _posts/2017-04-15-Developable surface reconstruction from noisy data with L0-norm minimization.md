@@ -7,7 +7,7 @@ category:
  - Paper
 tags:
  - Developable Surface
- - Reconstruction
+ - Surface Reconstruction
  - Denoising
 ---
 China CAD&CG 2016 
