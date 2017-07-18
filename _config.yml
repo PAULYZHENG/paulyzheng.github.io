@@ -62,7 +62,7 @@ widgets:
 
 
 #### RSS
-rss: /atom.xml ## RSS address.
+rss: ## RSS address./atom.xml 
 
 #### Image
 imglogo:
