@@ -2,7 +2,7 @@
 
 layout: post
 title: Developable surface reconstruction from noisy data with L0-norm minimization
-date: 2017-04-15
+date: 2017-07-20
 category:
  - Paper
 tags:
