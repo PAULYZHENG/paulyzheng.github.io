@@ -17,4 +17,4 @@ We present a novel method for developable surface reconstruction from noisy mode
 Bo P B, Wang Z, Zhang C M, Zheng Y J. Developable surface reconstruction from noisy data with L0-norm minimization (in Chinese). Sci Sin Inform, 2017, doi: 10.1360/N1120 16-00179
 
 
-* [PDF](https://paulyzheng.github.io/paper/2017-01.pdf)
+* [Paper](https://paulyzheng.github.io/paper/2017-01.pdf)
