@@ -15,4 +15,4 @@ Abstract: A new method is proposed for rendering volumetric data with adaptive l
 Lin D S, Zheng Y J, Bo P B. Volume Rendering with Adaptive Local Feature Enhancement(in Chinese). GDC 2017.
 
 
-* [Paper](https://paulyzheng.github.io/paper/2017-03.pdf)  [Presentation](https://paulyzheng.github.io/paper/2017-03-report.pdf)
+* [Paper](https://paulyzheng.github.io/paper/2017-03.pdf)     [Presentation](https://paulyzheng.github.io/paper/2017-03-report.pdf)
