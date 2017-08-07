@@ -17,4 +17,4 @@ Abstract: In this paper, an important surface modeling problem in ship hull desi
 Zheng Y J, Bo P B. Quasi-developable Surface Construction Based on Boundary Curve and its Application in Ship Hull Design(in Chinese). GDC 2017.
 
 
-* [Paper](https://paulyzheng.github.io/paper/2017-02.pdf) * [Presentation](https://paulyzheng.github.io/paper/2017-02-report.pdf)
+* [Paper](https://paulyzheng.github.io/paper/2017-02.pdf)  [Presentation](https://paulyzheng.github.io/paper/2017-02-report.pdf)
