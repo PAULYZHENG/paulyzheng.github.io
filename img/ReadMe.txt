@@ -1,2 +1,2 @@
 
-some images for articals.
+some images for articals
