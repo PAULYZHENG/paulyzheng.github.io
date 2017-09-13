@@ -1,0 +1,56 @@
+---
+
+layout: post
+title: My Flower and I
+date: 2017-09-13
+category:
+ - Life
+tags:
+ - Personal Statement
+---
+
+Please forgive me for using Chinese.
+
+(我的花)
+
+我是一朵不起眼的墨西哥蓝鸟, 一种公认的易养殖的多肉植物. 
+
+我由经验老道的花农栽培, 安稳度过了稚嫩的幼苗期. 
+
+我被摆在大街上售卖. 有人远远的观赏我, 有人端起我细细怜悯, 也有人看了我一眼就把我买回了家. 
+
+![]( https://paulyzheng.github.io/img/My Flower and I_1.png) 15/4/26
+
+我被精心呵护, 渐渐长满了整个花盆. 
+
+![]( https://paulyzheng.github.io/img/My Flower and I_2.png) 15/6/12
+
+这狭小的空间限制了我自由、纵情的生长. 我即将被移栽, 去一个更大的地方. 满心期待.
+
+金秋时节, 我经过复杂的工序, 被移到了约两倍大的新家. 
+
+(图片丢失)
+
+移栽时我的根部受损, 没过多久我就枯萎了. 但我仍然被按时浇水.
+
+There is a miracle, when you believe.
+
+![]( https://paulyzheng.github.io/img/My Flower and I_3.png) 16/1/29
+
+Now.
+
+![]( https://paulyzheng.github.io/img/My Flower and I_4.png) 17/9/13
+
+如果我当时移栽成功, 那现在我将会拥有一朵占满新花盆的硕大无比的花. 然后我会在下一个秋天继续被移栽.
+
+虽然经历了枯萎, 但我现在又有了许多小花. 我的未来充满了无限种可能, 而不仅仅是在真正的死亡来临之前，轮回于长大和移栽之间.
+
+向死而生.
+
+(花与我)
+
+我即是花, 花即是我.
+
+在高中时, 我占满了花盆. 
+
+被移栽到大学后, 我先是逐渐枯萎, 继而又开起了许多小花.
