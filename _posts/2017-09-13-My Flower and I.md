@@ -19,11 +19,11 @@ Please forgive me for using Chinese.
 
 我被摆在大街上售卖. 有人远远的观赏我, 有人端起我细细怜悯, 也有人看了我一眼就把我买回了家. 
 
-![]( https://paulyzheng.github.io/img/My Flower and I_1.png) 15/4/26
+![]( https://paulyzheng.github.io/img/My Flower and I_1.png) 2015/4/26
 
 我被精心呵护, 渐渐长满了整个花盆. 
 
-![]( https://paulyzheng.github.io/img/My Flower and I_2.png) 15/6/12
+![]( https://paulyzheng.github.io/img/My Flower and I_2.png) 2015/6/12
 
 这狭小的空间限制了我自由、纵情的生长. 我即将被移栽, 去一个更大的地方. 满心期待.
 
@@ -37,11 +37,11 @@ Please forgive me for using Chinese.
 
 There is a miracle, when you believe.
 
-![]( https://paulyzheng.github.io/img/My Flower and I_3.png) 16/1/29
+![]( https://paulyzheng.github.io/img/My Flower and I_3.png) 2016/1/29
 
 Now.
 
-![]( https://paulyzheng.github.io/img/My Flower and I_4.png) 17/9/13
+![]( https://paulyzheng.github.io/img/My Flower and I_4.png) 2017/9/13
 
 如果我当时移栽成功, 那现在我将会拥有一朵占满新花盆的硕大无比的花. 然后我会在下一个秋天继续被移栽.
 
