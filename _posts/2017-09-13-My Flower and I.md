@@ -31,7 +31,9 @@ Please forgive me for using Chinese.
 
 (图片丢失)
 
-移栽时我的根部受损, 没过多久我就枯萎了. 但我仍然被按时浇水.
+由于移栽时根部受损, 我开始枯萎. 但我仍然被按时浇水.
+
+(图片丢失)
 
 There is a miracle, when you believe.
 
