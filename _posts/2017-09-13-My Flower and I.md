@@ -9,7 +9,7 @@ tags:
  - Personal Statement
 ---
 
-Please forgive me for using Chinese.
+Please forgive me for using Chinese for the time being.
 
 (我的花)
 
@@ -43,7 +43,7 @@ Now.
 
 ![]( https://paulyzheng.github.io/img/My Flower and I_4.png) 2017/9/13
 
-如果我当时移栽成功, 那现在我将会拥有一朵占满新花盆的硕大无比的花. 在下一个秋天继续被移栽.
+如果当时我被移栽成功, 现在我将会拥有一朵占满新花盆的硕大无比的花. 在下一个秋天继续被移栽.
 
 虽然经历了枯萎, 但我现在开了许多小花. 我的未来充满了无限种可能, 而不仅仅是在真正的死亡来临之前，轮回于占满花盆和移栽之间.
 
