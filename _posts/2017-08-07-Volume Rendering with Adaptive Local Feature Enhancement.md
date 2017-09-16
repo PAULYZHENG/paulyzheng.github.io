@@ -2,7 +2,7 @@
 
 layout: post
 title: Volume Rendering with Adaptive Local Feature Enhancement
-date: 2017-08-07
+date: 2017-08-06
 category:
  - Paper
 tags:
