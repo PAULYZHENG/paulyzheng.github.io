@@ -29,13 +29,13 @@ paginate: 20
 
 #### Site
 title : Paul Zheng(郑玉健)
-tagline: Research Muddleheadedly.
+tagline: undergraduate, Harbin Insitute of Technology, Weihai<br>Email:paul.yj.zheng@gmail.com
 assets: /assets
 url:
 baseurl:
 
 #### Language
-language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
+language: en    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
