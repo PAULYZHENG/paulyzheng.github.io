@@ -9,7 +9,7 @@ tags:
  - Personal Statement
 ---
 
-When her was reborn, our destiny was closely tied together.
+When she was reborn, our destiny was closely tied together.
 
 (我的花)
 
