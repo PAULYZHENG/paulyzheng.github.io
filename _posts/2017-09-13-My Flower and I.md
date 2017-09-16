@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: My Flower and I
+title: Reborn——My Flower and I
 date: 2017-09-13
 category:
  - Life
@@ -9,7 +9,7 @@ tags:
  - Personal Statement
 ---
 
-Please forgive me for using Chinese for the time being.
+When her was reborn, our destiny was closely tied together.
 
 (我的花)
 
