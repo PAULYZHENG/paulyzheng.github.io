@@ -8,7 +8,7 @@ category:
 tags:
  - Volume Rendering
 ---
-__The 10th Geometric Design and Computing of China, Yantai, 2017__
+__CSIAM Geometric Design and Computing of China, Yantai, 2017__
 
 __Abstract:__ A new method is proposed for rendering volumetric data with adaptive local feature enhancement. The opacity of voxels is adjusted by the difference between global feature information and local feature information. Feature enhancement rendering effect is obtained by strengthen the contrast of feature regions and non-feature regions. Based on the NPR technique, the new method performs a classification on original opacity computed by a simple transfer function. Different model parameters are used for different class of voxels. Some medical data sets are tested and corresponding rendering results are given with comparisons to existing methods.
 
