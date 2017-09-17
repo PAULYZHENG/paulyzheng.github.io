@@ -39,7 +39,7 @@ language: en    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
-  Home: /
+  Blog: /
   Archives: /archives
   About: /about
 ## you can create `tags` and `categories` folders (I had created them already).
