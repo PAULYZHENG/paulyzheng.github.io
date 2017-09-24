@@ -1,6 +1,7 @@
 ---
 
 layout: post
+comments: true
 title: Reborn——My Flower and I
 date: 2017-09-13
 category:
