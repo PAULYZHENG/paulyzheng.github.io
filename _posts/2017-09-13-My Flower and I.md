@@ -8,10 +8,8 @@ category:
 tags:
  - Personal Statement
 ---
-
+当她重生时, 我们的命运就被牢牢地拴在了一起.
 When she was reborn, our destiny was closely tied together.
-
-
 
 我是一朵不起眼的墨西哥蓝鸟, 一种公认的易养殖的多肉植物. 
 
