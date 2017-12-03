@@ -17,7 +17,7 @@ When she was reborn, our destiny was closely tied together.
 
 我由经验老道的花农栽培, 安稳度过了稚嫩的幼苗期. 
 
-我被摆在大街上售卖. 有人远远的观赏我, 有人端起我细细怜悯, 有人却只看了我一眼, 就把我买回了家. 
+我被摆在大街上售卖. 有人远远的观赏我, 有人端起我细细怜悯, 有人只看了我一眼却把我买回了家. 
 
 ![]( https://paulyzheng.github.io/img/My Flower and I_1.png) 2015/4/26
 
