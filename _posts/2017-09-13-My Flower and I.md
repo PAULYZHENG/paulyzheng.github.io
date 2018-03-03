@@ -49,7 +49,7 @@ I began to wither because the roots were damaged when transplanting. But I still
 (图片丢失)
 
 There is a miracle, when you believe. 枯萎的花盘上钻出了新的花朵.
-
+![]( https://paulyzheng.github.io/img/My Flower and I_5.png)
 ![]( https://paulyzheng.github.io/img/My Flower and I_3.png) 2016/1/29
 
 Now.
