@@ -70,3 +70,8 @@ Although I have gone through the withering, I have opened many small flowers now
 
 Born to die.
 
+Updating...
+
+![]( https://paulyzheng.github.io/img/My Flower and I_6.png) 2018/3/4
+
+Thank you Xiaoqian for babysitting my flower during the winter vacation.
