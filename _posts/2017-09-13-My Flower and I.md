@@ -40,13 +40,13 @@ The narrow space restricted my free and unbridled growth. I will be transplanted
 
 In the autumn, I was moved to a new home about two times larger after a complicated process.
 
-(图片丢失)
+(图片丢失, image lost)
 
 由于移栽时根部受损, 我开始枯萎. 但我仍然被按时浇水.
 
 I began to wither because the roots were damaged when transplanting. But I still was watered on time.
 
-(图片丢失)
+(图片丢失, image lost)
 
 There is a miracle, when you believe. 枯萎的花盘上钻出了新的花朵.
 
