@@ -75,3 +75,13 @@ Updating...
 ![]( https://paulyzheng.github.io/img/My Flower and I_6.png) 2018/3/4
 
 Thank you Xiaoqian for babysitting my flower during the winter vacation.
+
+Updating...
+
+![]( https://paulyzheng.github.io/img/My Flower and I_8.png) 2018/6/29
+
+I have already taken all space of the current flowerpot. It's time to transplant.
+
+This flower has been given to Xiaoqian as a gift.
+
+End of story.
