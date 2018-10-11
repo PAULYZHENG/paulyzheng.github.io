@@ -68,7 +68,7 @@ Although I have gone through the withering, I have opened many small flowers now
 
 向死而生.
 
-Born to die.
+Exist to die.
 
 Updating...
 
