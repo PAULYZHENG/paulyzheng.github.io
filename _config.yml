@@ -84,8 +84,8 @@ share_to: true #enable share-to buttons if true
 #### Author information
 author:
   name: 泡正      ## e.g. wuchong Author name
-  intro_line1:  "Nobody grows old merely by a number of years."    ## your introduction on the bottom of the page
-  intro_line2:  "We grow old by deserting our ideals."  ## the 2nd line
+  intro_line1:  "Dreams will keep me young."    ## your introduction on the bottom of the page
+  ##intro_line2:  "We grow old by deserting our ideals."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
