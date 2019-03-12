@@ -8,15 +8,10 @@ category:
 tags:
  - Personal Statement
 ---
-当她重生时, 我们的命运就被牢牢地拴在了一起.
 
-When she was reborn, our destiny was closely tied together.
+我是一朵不起眼的墨西哥蓝鸟, 一种公认的生命力顽强且易养殖的多肉植物. 
 
------------------------------------------------------------
-
-我是一朵不起眼的墨西哥蓝鸟, 一种公认的易养殖的多肉植物. 
-
-I am an unattractive Mexico blue bird, a kind of succulent which is easy to plant.
+I am an unattractive Mexico blue bird, a kind of succulent which is vigorous and easy to plant.
 
 我由经验老道的花农栽培, 安稳度过了稚嫩的幼苗期. 
 
