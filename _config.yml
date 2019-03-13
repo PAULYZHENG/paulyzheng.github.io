@@ -168,3 +168,6 @@ simple_jekyll_search:
 
 gems:
  - jemoji
+ 
+plugins:
+  - jekyll-seo-tag
