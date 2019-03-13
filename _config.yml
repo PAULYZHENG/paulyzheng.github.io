@@ -39,8 +39,8 @@ language: en    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
-  Blog: /
   About: /about
+  Blog: /
 ## you can create `tags` and `categories` folders (I had created them already).
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -54,7 +54,7 @@ widgets:
 - tag
 - tagcloud
 - links
-- douban
+##- douban
 - github-card
 ##- rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
@@ -123,7 +123,7 @@ yungentie_productkey: ## your netease yungentie product key.              websit
 
 #### Share button
 jiathis:
-  enable: false ## if you use jiathis as your share tool,the built-in share tool won't be display.
+  enable: true ## if you use jiathis as your share tool,the built-in share tool won't be display.
   id:    ## e.g. 1889330 your jiathis ID.
   tsina: ## e.g. 2176287895 Your weibo id,It will be used in share button.
 
@@ -147,8 +147,8 @@ totop: true           ## if you want to scroll to top in every post set the valu
 
 #### Custom Search
 google_cse:
-  enable: false
-  cx: 018294693190868310296:abnhpuysycw  ## e.g. 018294693190868310296:abnhpuysycw your Custom Search ID.
+  enable: true
+  cx: 018294693190868310296:zhengyujian  ## e.g. 018294693190868310296:abnhpuysycw your Custom Search ID.
 ## https://www.google.com/cse/
 ## To enable the custom search You must create a "search" folder in '/source' and a "index.md" file
 ## set the 'front-matter' as
@@ -156,9 +156,9 @@ google_cse:
 ## title: search
 ## ---
 baidu_search:     ## http://zn.baidu.com/
-  enable: false
+  enable: true
   id:   ## e.g. "783281470518440642"  for your baidu search id
-  site: http://zhannei.baidu.com/cse/search  ## your can change to your site instead of the default site
+  site: https://paulyzheng.github.io/about/  ## your can change to your site instead of the default site
 tinysou_search:     ## http://tinysou.com/
   enable: false
   id:  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
