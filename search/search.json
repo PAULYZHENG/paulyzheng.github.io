@@ -1,6 +1,6 @@
 ---
 layout: null
-sitemap: false
+sitemap: true
 ---
 {% assign lang = site.data.languages[site.language] %}
 
