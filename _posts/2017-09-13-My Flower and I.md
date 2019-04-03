@@ -77,7 +77,7 @@ Updating...
 
 ![]( https://paulyzheng.github.io/img/My Flower and I_8.png) 2018/6/29
 
-I have already taken all space of the current flowerpot. It's time to transplant.
+I have already taken all space of the current flowerpot. Although transplant is still needed, my life becomes more colorful now.
 
 This flower has been given to Xiaoqian as a gift.
 
