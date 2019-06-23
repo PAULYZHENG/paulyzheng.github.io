@@ -65,7 +65,7 @@ Although I have suffered the withering, I have opened many small flowers now. My
 
 向死而生.
 
-Exist to die.
+Exist toward death.
 
 Updating...
 
