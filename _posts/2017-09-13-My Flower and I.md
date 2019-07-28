@@ -79,6 +79,6 @@ Updating...
 
 I have already taken all space of the current flowerpot. Although transplant is still needed, my life becomes more colorful now.
 
-This flower has been given to Xiaoqian as a gift.
+This flower has been given to Xiaoqian as a gift when I left Weihai.
 
 End of story.
