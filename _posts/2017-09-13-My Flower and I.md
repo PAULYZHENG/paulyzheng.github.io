@@ -57,11 +57,11 @@ Now.
 
 如果当时我被移栽成功, 现在我将会拥有一朵占满新花盆的硕大无比的花. 在下一个秋天继续被移栽.
 
-If I were transplanted successfully at that time, now I will take all space of the new flowerpot. Maybe I will be transplanted again in the next autumn.
+If I were transplanted successfully at that time, now I may take all space of the new flowerpot. Maybe I will be transplanted again in the next autumn.
 
 虽然经历了枯萎, 但我现在开了许多小花. 我的未来充满了无限种可能, 而不仅仅是在真正的死亡来临之前，轮回于占满花盆和移栽之间.
 
-Although I have suffered the withering, I have opened many small flowers now. My future is full of possibilities, not just cycling between occupying pots and transplanting before the real death coming.
+Although I have suffered withering, I get many small flowers now. My future is full of possibilities, not just cycling between occupying pots and transplanting before the real death coming.
 
 向死而生.
 
