@@ -63,10 +63,6 @@ If I were transplanted successfully at that time, now I may take all space of th
 
 Although I have suffered withering, I get many small flowers now. My future is full of possibilities, not just cycling between occupying pots and transplanting before the real death coming.
 
-向死而生.
-
-Exist toward death.
-
 Updating...
 
 ![]( https://paulyzheng.github.io/img/My Flower and I_6.png) 2018/3/4
