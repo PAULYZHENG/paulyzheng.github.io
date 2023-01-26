@@ -75,10 +75,14 @@ Updating...
 
 ![]( https://paulyzheng.github.io/img/My Flower and I_8.png) 2018/6/29
 
-我又一次占满了花盆. 虽然仍然需要被移栽, 但我的生活将会更加丰富多彩.
+经历了许多变数, 我又一次占满了花盆. 虽然仍然需要被移栽, 但我相信我的生活将会更加丰富多彩.
 
-I have already taken all space of the current flowerpot. Although transplant is still needed, my life becomes more colorful now.
+I have already taken all space of the current flowerpot. Although transplant is still needed, I believe my life will be more colorful.
+
+我把这盆花留在了工作了三年的实验室.
 
 This flower has been given to Xiaoqian as a gift when I left Weihai.
+
+故事就暂时到这里了.
 
 End of story.
