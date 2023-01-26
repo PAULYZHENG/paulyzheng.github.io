@@ -67,11 +67,15 @@ Updating...
 
 ![]( https://paulyzheng.github.io/img/My Flower and I_6.png) 2018/3/4
 
+感谢学姐在寒假帮忙照料我的花.
+
 Many thanks to Xiaoqian for babysitting my flower during the winter vacation.
 
 Updating...
 
 ![]( https://paulyzheng.github.io/img/My Flower and I_8.png) 2018/6/29
+
+我又一次占满了花盆. 虽然仍然需要被移栽, 但我的生活将会更加丰富多彩.
 
 I have already taken all space of the current flowerpot. Although transplant is still needed, my life becomes more colorful now.
 
