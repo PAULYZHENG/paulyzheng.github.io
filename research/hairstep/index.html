@@ -1,0 +1,317 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>HairStep</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script type="text/javascript" src="jquery.mlens-1.0.min.js"></script>
+    <script type="text/javascript" src="jquery.js"></script>
+    <style>
+        body {
+            font-family: 'Open-Sans', sans-serif;
+            font-weight: 300;
+            background-color: #fff;
+        }
+
+        .content {
+            width: 1000px;
+            padding: 25px 50px;
+            margin: 25px auto;
+            background-color: white;
+            box-shadow: 0px 0px 10px #999;
+            border-radius: 15px;
+        }
+
+        .contentblock {
+            width: 950px;
+            margin: 0 auto;
+            padding: 0;
+            border-spacing: 25px 0;
+        }
+
+        .contentblock td {
+            background-color: #fff;
+            padding: 25px 50px;
+            vertical-align: top;
+            box-shadow: 0px 0px 10px #999;
+            border-radius: 15px;
+        }
+
+        a,
+        a:visited {
+            color: #224b8d;
+            font-weight: 300;
+        }
+
+        #authors {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #conference {
+            text-align: center;
+            margin-bottom: 20px;
+            font-style: italic;
+        }
+
+        #authors a {
+            margin: 0 10px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 35px;
+            font-weight: 300;
+        }
+
+        h2 {
+            font-size: 30px;
+            font-weight: 300;
+        }
+
+        code {
+            display: block;
+            padding: 10px;
+            margin: 10px 10px;
+        }
+
+        p {
+            line-height: 25px;
+            text-align: justify;
+        }
+
+        p code {
+            display: inline;
+            padding: 0;
+            margin: 0;
+        }
+
+        #teasers {
+            margin: 0 auto;
+        }
+
+        #teasers td {
+            margin: 0 auto;
+            text-align: center;
+            padding: 5px;
+        }
+
+        #teasers img {
+            width: 250px;
+        }
+
+        #results img {
+            width: 133px;
+        }
+
+        #seeintodark {
+            margin: 0 auto;
+        }
+
+        #sift {
+            margin: 0 auto;
+        }
+
+        #sift img {
+            width: 250px;
+        }
+
+        .downloadpaper {
+            padding-left: 20px;
+            float: right;
+            text-align: center;
+        }
+
+        .downloadpaper a {
+            font-weight: bold;
+            text-align: center;
+        }
+
+        #demoframe {
+            border: 0;
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            height: 340px;
+        }
+
+        #feedbackform {
+            border: 1px solid #ccc;
+            margin: 0 auto;
+            border-radius: 15px;
+        }
+
+        #eyeglass {
+            height: 530px;
+        }
+
+        #eyeglass #wrapper {
+            position: relative;
+            height: auto;
+            margin: 0 auto;
+            float: left;
+            width: 800px;
+        }
+
+        #mitnews {
+            font-weight: normal;
+            margin-top: 20px;
+            font-size: 14px;
+            width: 220px;
+        }
+
+        #mitnews a {
+            font-weight: normal;
+        }
+
+        .teaser-img {
+            width: 100%;
+        }
+
+        .iframe {
+            width: 100%;
+            height: 125%
+        }
+    </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+		<!--
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98008272-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-98008272-2');
+    </script>
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+		-->
+
+</head>
+
+<body>
+
+    <div class="content">
+        <h1><I><B>HairStep</B></I>: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling</h1>
+
+        <p id="authors">
+            <a href="https://paulyzheng.github.io/about/">Yujian Zheng</a>
+            <a href="https://paulyzheng.github.io/research/hairstep/">Zirong Jin</a>
+            <a href="https://paulyzheng.github.io/research/hairstep/">Moran Li</a>
+            <a href="https://brotherhuang.github.io/">Haibin Huang</a>
+            <a href="http://www.chongyangma.com/">Chongyang Ma</a>
+            <a href="https://sse.cuhk.edu.cn/en/faculty/cuishuguang">Shuguang Cui</a>
+            <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a><br>
+            <!-- <strong>MIT Computer Science and Artificial Intelligence Laboratory</strong> -->
+            SSE, CUHKSZ&nbsp;&nbsp;&nbsp;&nbsp;FNii, CUHKSZ&nbsp;&nbsp;&nbsp;&nbsp;Kuaishou Technology
+        </p>
+				<font size="+2">
+					<p style="text-align: center;">
+						<a href="https://paulyzheng.github.io/research/hairstep/" target="_blank">[Paper]</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="https://paulyzheng.github.io/research/hairstep/" target="_blank">[Video]</a> &nbsp;&nbsp;&nbsp;&nbsp;
+						<!-- <a href="files/poster.pdf" target="_blank">[Poster]</a> &nbsp;&nbsp;&nbsp;&nbsp; -->
+						<a href="https://paulyzheng.github.io/research/hairstep/" target="_blank">[Code(coming soon)]</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="https://paulyzheng.github.io/research/hairstep/" target="_blank">[DataSet(coming soon)]</a>
+					</p>
+					</font>
+        <p>
+            <img class='teaser-img' src='img/teaser.jpg'></img>
+        </p>
+
+        <p>
+            Given a single portrait image, 
+            we first convert it to an intermediate representation <I>HairStep</I> consisting of a strand map and a depth map (shown in the bottom left and right for each example), 
+            and then recover the corresponding 3D hair model at the strand level. 
+            Our <I>HairStep</I> is capable to bridge the domain gap between synthetic and real data and achieves high-fidelity hair modeling results.
+        </p>
+
+        <br clear="all">
+    </div>
+    <div class="content" id="abstract">
+				<font size="+2">
+					<p style="text-align: center;">
+						<B>Abstract</B>
+					</p>
+                </font>
+                <p style="text-align: left;">
+                    In this work, we tackle the challenging problem of learning-based single-view 3D hair modeling. 
+                    Due to the great difficulty of collecting paired real image and 3D hair data, using synthetic data to provide prior knowledge for real domain becomes a leading solution. 
+                    This unfortunately introduces the challenge of domain gap. 
+                    Due to the inherent difficulty of realistic hair rendering, existing methods typically use orientation maps instead of hair images as input to bridge the gap. 
+                    We firmly think an intermediate representation is essential, but we argue that orientation map using the dominant filtering-based methods is sensitive to uncertain noise and far from a competent representation. 
+                    Thus, we first raise this issue up and propose a novel intermediate representation, termed as <I>HairStep</I>, which consists of a strand map and a depth map. 
+                    It is found that <I>HairStep</I> not only provides sufficient information for accurate 3D hair modeling, but also is feasible to be inferred from real images. 
+                    Specifically, we collect a dataset of 1,250 portrait images with two types of annotations. 
+                    A learning framework is further designed to transfer real images to the strand map and depth map. 
+                    It is noted that, an extra bonus of our new dataset is the first quantitative metric for 3D hair modeling. 
+                    Our experiments show that <I>HairStep</I> narrows the domain gap between synthetic and real and achieves state-of-the-art performance on single-view 3D hair reconstruction.
+                </p>
+					
+    </div>
+    <div class="content" id="pipeline">
+				<font size="+2">
+					<p style="text-align: center;">
+						<B>Pipeline</B>
+					</p>
+                </font>
+                <p style="text-align: center;">
+                <img src="img/pipeline.jpg" width="100%">
+                </p>
+                <p style="text-align: left;">
+                    Overview of single-view 3D hair modeling with our novel representation <I>HairStep</I>. We first collect two datasets <I>HiSa</I> and <I>HiDa</I>, 
+                    then propose effective approaches for <I>HairStep</I> extraction from real images and finally realize high-fidelity 3D hair strand reconstruction.
+                </p>
+    </div>
+    <div class="content" id="comparison">
+        <font size="+2">
+            <p style="text-align: center;">
+                <B>Comparisons</B>
+            </p>
+        </font>
+        <p style="text-align: center;">
+        <img src="img/comparisons.jpg" width="100%">
+        </p>
+    </div>
+    <div class="content" id="video">
+        <font size="+2">
+            <p style="text-align: center;">
+                <B>Supplementary Video</B>
+            </p>
+        </font>
+        <p style="text-align: center;">
+            <iframe width="970" height="550" src="https://www.youtube.com/watch?v=PH71t_zHIcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </p>
+    </div>
+    <div class="content" id="references">
+
+        <h2>Reference</h2>
+
+        <code>
+
+	    @inproceedings{zheng2023hair,<br>
+            &nbsp;&nbsp;title={HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling},<br>
+            &nbsp;&nbsp;author={Yujian, Zheng and Zirong, Jin and Moran, Li and Haibin, Huang and Chongyang, Ma and Shuguang, Cui and Xiaoguang, Han},<br>
+            &nbsp;&nbsp;booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},<br>
+            &nbsp;&nbsp;year={2023}<br>
+            }
+        </code>
+
+    </div>      
+    <div class="content" id="acknowledgements">
+          <p><strong>Acknowledgements</strong>: <br>
+              <!-- This work was supported by a Google Faculty Research Award to P.I., and a U.S. National Science Foundation Graduate Research Fellowship to L.C.  -->
+              Website template is borrowed from our <a href="https://ali-design.github.io/gan_steerability/">memorable friends</a>.
+              <!--
+              <p><strong>Disclaimer</strong>: The views and conclusions contained herein are those of the authors and
+                  should not be interpreted as necessarily representing the official policies or endorsements, either
+                  expressed or implied, of IARPA, DOI/IBC, or the U.S.
+              </p>
+              -->
+    </div>
+</body>
+
+</html>
