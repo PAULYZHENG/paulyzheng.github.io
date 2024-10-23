@@ -10,4 +10,4 @@ tags:
  - Personal Statement
 ---
 
-Will be posted before 2024.
+Will be posted soon.
