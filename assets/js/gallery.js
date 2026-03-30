@@ -1,72 +1,104 @@
 (function($){
 
-  // Caption + Fancybox for images and videos
   $('.entry').each(function(i){
     var $entry = $(this);
     var groupName = 'article' + i;
 
-    // 1) images: keep existing behavior
+    // 1) 先处理图片：保留你原来的逻辑
     $entry.find('img').each(function(){
-      if ($(this).hasClass('nofancybox')) return;
-      if ($(this).parent('a.fancybox').length) return;
+      var $img = $(this);
 
-      var alt = this.alt;
+      if ($img.hasClass('nofancybox')) return;
+      if ($img.parent('a.fancybox').length) return;
+
+      var alt = this.alt || '';
       if (alt) {
-        $(this).after('<span class="caption">' + alt + '</span>');
+        $img.after('<span class="caption">' + alt + '</span>');
       }
 
-      $(this).wrap(
-        '<a href="' + this.src + '" title="' + (alt || '') + '" class="fancybox" rel="' + groupName + '"></a>'
+      $img.wrap(
+        '<a href="' + this.src + '" title="' + alt + '" class="fancybox" rel="' + groupName + '"></a>'
       );
     });
 
-    // 2) videos: only process videos you explicitly mark
+    // 2) 给想加入浮层的 video 打标号
     $entry.find('video.fancybox-video').each(function(j){
       var $video = $(this);
 
-      // avoid duplicate processing
-      if ($video.data('fancybox-bound')) return;
-      $video.data('fancybox-bound', true);
-
-      var inlineId = $video.attr('id');
-      if (!inlineId) {
-        inlineId = 'fancybox-video-' + i + '-' + j;
-        $video.attr('id', inlineId);
+      if (!$video.attr('data-fancybox-video-id')) {
+        $video.attr('data-fancybox-video-id', groupName + '-video-' + j);
       }
+    });
 
-      // move the original video into a hidden inline container
-      // and leave behind a clickable clone as the visible poster/player
-      var $inlineWrap = $('<div></div>', {
-        id: inlineId + '-inline',
-        css: {
-          display: 'none',
-          width: '960px',
-          maxWidth: '90vw'
+    // 3) 点击 video 时，主动构建同一 entry 内的 gallery
+    $entry.off('click.fancyboxVideo', 'video.fancybox-video');
+    $entry.on('click.fancyboxVideo', 'video.fancybox-video', function(e){
+      e.preventDefault();
+
+      var $clickedVideo = $(this);
+      var items = [];
+      var startIndex = 0;
+
+      // 按页面出现顺序，把 img/video 都放进同一个组
+      $entry.find('img, video.fancybox-video').each(function(){
+        var $node = $(this);
+
+        // 图片：取它外层 fancybox 链接
+        if ($node.is('img')) {
+          if ($node.hasClass('nofancybox')) return;
+
+          var $a = $node.parent('a.fancybox');
+          if (!$a.length) return;
+
+          var item = {
+            href: $a.attr('href'),
+            title: $a.attr('title') || ''
+          };
+
+          if (this === $clickedVideo[0]) {
+            startIndex = items.length;
+          }
+
+          items.push(item);
+          return;
+        }
+
+        // 视频：用 inline html 项
+        if ($node.is('video')) {
+          var poster = $node.attr('poster') || '';
+          var src = $node.attr('src') || $node.find('source').first().attr('src') || '';
+
+          if (!src) return;
+
+          var html =
+            '<div style="width:960px;max-width:90vw;">' +
+              '<video controls playsinline autoplay style="width:100%;height:auto;"' +
+              (poster ? ' poster="' + poster + '"' : '') +
+              '>' +
+                '<source src="' + src + '">' +
+              '</video>' +
+            '</div>';
+
+          if (this === $clickedVideo[0]) {
+            startIndex = items.length;
+          }
+
+          items.push({
+            type: 'html',
+            content: html
+          });
         }
       });
 
-      // clone a fresh video for fancybox content
-      var $videoClone = $video.clone();
-      $videoClone.removeAttr('id');
-      $videoClone.prop('controls', true);
-      $videoClone.css({
-        width: '100%',
-        height: 'auto'
+      if (!items.length) return;
+
+      $.fancybox.open(items, {
+        index: startIndex
       });
-
-      $inlineWrap.append($videoClone);
-      $('body').append($inlineWrap);
-
-      // wrap the on-page video with fancybox trigger
-      if (!$video.parent('a.fancybox').length) {
-        $video.wrap(
-          '<a href="#' + inlineId + '-inline" class="fancybox fancybox-video-trigger" rel="' + groupName + '"></a>'
-        );
-      }
     });
   });
 
-  // Gallery
+  // 原来的 gallery 逻辑保留
   var play = function(parent, item, callback){
     var width = parent.width();
     item.imagesLoaded(function(){
